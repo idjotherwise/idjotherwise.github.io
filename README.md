@@ -1,2 +1,2 @@
 # idjotherwise.github.io
-Pages site
+React + tailwind
